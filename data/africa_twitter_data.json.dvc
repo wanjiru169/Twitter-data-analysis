@@ -1,0 +1,4 @@
+outs:
+- md5: ad1d100f341292882b2d168bf73616cd
+  size: 134461400
+  path: africa_twitter_data.json
